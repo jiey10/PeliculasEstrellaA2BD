@@ -1,0 +1,15 @@
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\bin\Debug\net5.0\Peliculas.Domain.deps.json
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\bin\Debug\net5.0\Peliculas.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\bin\Debug\net5.0\ref\Peliculas.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\bin\Debug\net5.0\Peliculas.Domain.pdb
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\obj\Debug\net5.0\Peliculas.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\obj\Debug\net5.0\Peliculas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\obj\Debug\net5.0\Peliculas.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\obj\Debug\net5.0\Peliculas.Domain.AssemblyInfo.cs
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\obj\Debug\net5.0\Peliculas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\obj\Debug\net5.0\Peliculas.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\obj\Debug\net5.0\ref\Peliculas.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\obj\Debug\net5.0\Peliculas.Domain.pdb
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\bin\Debug\net5.0\Peliculas.Domain.runtimeconfig.json
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\bin\Debug\net5.0\Peliculas.Domain.runtimeconfig.dev.json
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\PeliculasApiEstrella\Peliculas.Domain\obj\Debug\net5.0\Peliculas.Domain.genruntimeconfig.cache
